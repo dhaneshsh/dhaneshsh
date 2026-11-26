@@ -114,7 +114,27 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=dhaneshsh&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=D97757&color=8b949e&line=1f6feb&point=CC785C&area=true&area_color=D97757&height=280&radius=12&custom_title=Dhanesh%20Kumar%20Sharma%20%7C%20Contributions" alt="Dhanesh Kumar Sharma contribution graph" />
+  <img
+    width="100%"
+    src="https://githubstudio.sylvenos.com/api/contributions?username=dhaneshsh&title=Dhanesh%20Kumar%20Sharma%20%7C%20Contributions&summary=true&view=heatmap&theme=tokyonight&bg=0d1117&title_color=D97757&accent=CC785C&border=D97757&heat_colors=21262d,0e4429,006d32,26a641,39d353&card_style=glass&width=1040&radius=16&cell=11&gap=3&shape=round&legend=true&months=true&weekdays=true&highlight=both&week_start=sun&glow=true&hide_subtitle=true&padding=28"
+    alt="Dhanesh Kumar Sharma — contribution heatmap"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://githubstudio.sylvenos.com/api/activity?username=dhaneshsh&by=month&style=area&theme=tokyonight&bg=0d1117&title_color=D97757&accent=1f6feb&chart_colors=D97757,58a6ff,CC785C&title=Monthly%20Contribution%20Trend&width=1040&radius=16&card_style=elevated&smooth=true&peak=true&average=true&height=220&hide_border=false&border=D97757"
+    alt="Monthly contribution trend"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://githubstudio.sylvenos.com/api/skyline?username=dhaneshsh&theme=tokyonight&bg=0d1117&heat_colors=21262d,0e4429,006d32,26a641,39d353&height=90&cell=10&stats=true&title=Dhanesh%20Kumar%20Sharma&width=1040&radius=16"
+    alt="3D contribution skyline"
+  />
 </p>
 
 ---
