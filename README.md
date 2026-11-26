@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Dhanesh+Sharma;Senior+Web+Developer+%7C+ERP+%26+Full-Stack;Claude-Augmented+Engineering+%7C+17%2B+Years" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=780&lines=Hi%2C+I%27m+Dhanesh+Kumar+Sharma;Senior+Web+Developer+%7C+ERP+%26+Full-Stack;Claude-Augmented+Engineering+%7C+17%2B+Years" alt="Typing intro" />
 
 <br/>
 
