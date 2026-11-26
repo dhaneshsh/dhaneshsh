@@ -11,7 +11,10 @@
 <img src="https://img.shields.io/badge/Experience-17%2B_Years-f78166?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
 
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhaneshsh/dhaneshsh/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/dhaneshsh/dhaneshsh/output/github-contribution-grid-snake.svg" />
+</picture>
 ---
 
 ## Dashboard
