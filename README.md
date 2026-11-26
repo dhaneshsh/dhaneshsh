@@ -51,7 +51,17 @@
 
 **AI & data**
 
-<img src="https://skillicons.dev/icons?i=python,openai,postman,linux" alt="AI and data skills" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ai,py,fastapi,postman,linux,githubactions&perline=6" alt="AI and data skills" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/Cursor-IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/MCP-Context_Tools-58A6FF?style=for-the-badge" alt="MCP" />
+
+</div>
 
 </div>
 
