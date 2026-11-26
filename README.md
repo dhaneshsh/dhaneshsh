@@ -33,8 +33,8 @@
 ### Live metrics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhaneshsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&icon_color=58a6ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D97757&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhaneshsh&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=D97757&icon_color=58a6ff&text_color=c9d1d9&border_color=D97757&border_radius=16&text_bold=true&count_private=true&include_all_commits=true&rank_icon=percentile&custom_title=GitHub%20Dashboard" alt="Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshsh&layout=donut&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=D97757&border_color=D97757&border_radius=16&text_bold=true&langs_count=6&hide=html,css&custom_title=Stack%20Donut" alt="Donut languages" />
 </p>
 
 ---
