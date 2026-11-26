@@ -1,53 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhanesh+Sharma;Senior+Web+Developer;17%2B+Years+of+Experience" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Dhanesh%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Web%20Developer%20%7C%20ERP%20%26%20Full-Stack&descAlignY=55&descAlign=50" alt="Header" />
 
-**Building high-quality web applications since 2008**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=17%2B+Years+Building+the+Web;Clean+Architecture+%26+Maintainable+Code;Fast%2C+Accessible%2C+User-First+Experiences" alt="Typing SVG" />
 
-📍 Noida, India | 🏢 Regent Lighting Asia Pvt. Ltd
+<br/>
+
+<img src="https://img.shields.io/badge/Noida-India-238636?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Regent_Lighting_Asia-Enterprise-1f6feb?style=for-the-badge" alt="Company" />
+<img src="https://img.shields.io/badge/Experience-17%2B_Years-f78166?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## Dashboard
 
-- 🚀 Senior Web Developer with **17+ years** of professional experience
-- 💡 Passionate about creating fast, accessible and user-friendly web experiences
-- 🧩 Strong focus on clean architecture and maintainable code
-- 🌱 Always learning and exploring modern web technologies
-- 🤝 Open to mentoring and collaboration
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Executive snapshot
 
-### 🛠️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhaneshsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhaneshsh&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhaneshsh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhaneshsh)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhaneshsh&style=flat-square&color=blue" alt="Profile views" />
-</div>
+```yaml
+name: Dhanesh Sharma
+role: Senior Web Developer
+location: Noida, India
+company: Regent Lighting Asia Pvt. Ltd
+experience: 17+ years (since 2008)
+focus:
+  - ERP and business applications
+  - React / TypeScript frontends
+  - Laravel APIs and integrations
+  - Performance, accessibility, DX
+currently:
+  - Shipping production-grade web systems
+  - Mentoring and code quality
+  - Exploring modern tooling
