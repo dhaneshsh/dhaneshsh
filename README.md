@@ -21,7 +21,7 @@
 
 | | |
 |:--|:--|
-| **Name** | Dhanesh Sharma |
+| **Name** | Dhanesh Kumar Sharma |
 | **Role** | Senior Web Developer |
 | **Location** | Noida, India |
 | **Company** | Regent Lighting Asia Pvt. Ltd |
@@ -100,11 +100,11 @@
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demilab.com?user=dhaneshsh&theme=tokyonight&hide_border=true&background=0D1117&ring=D97757&fire=F78166&currStreakLabel=58A6FF" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dhaneshsh&theme=tokyonight&hide_border=true&background=0D1117&ring=D97757&fire=F78166&currStreakLabel=58A6FF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E&border_radius=12" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhaneshsh&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=D97757&line=1f6feb&point=CC785C&area=true&height=280" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=dhaneshsh&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=D97757&color=8b949e&line=1f6feb&point=CC785C&area=true&area_color=D97757&height=280&radius=12&custom_title=Dhanesh%20Kumar%20Sharma%20%7C%20Contributions" alt="Dhanesh Kumar Sharma contribution graph" />
 </p>
 
 ---
