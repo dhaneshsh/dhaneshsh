@@ -116,14 +116,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://raw.githubusercontent.com/dhaneshsh/dhaneshsh/main/output/tokyonight/contributions-heatmap.svg"
-    alt="Dhanesh Kumar Sharma — GitHub contribution heatmap (last year)"
-  />
-</p>
-<p align="center">
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/dhaneshsh/dhaneshsh/main/output/tokyonight/contributions.svg"
+    src="https://githubstudio.sylvenos.com/api/activity?username=dhaneshsh&by=month&style=area&theme=tokyonight&bg=0d1117&title_color=D97757&accent=1f6feb&chart_colors=D97757,58a6ff,CC785C&title=Monthly%20Contribution%20Trend&width=1040&radius=16&card_style=elevated&smooth=true&peak=true&average=true&height=220&hide_border=false&border=D97757"
     alt="Monthly contribution trend"
   />
 </p>
